@@ -28,7 +28,7 @@
 
 /* Configuration Headers */
 /* Controls build behavior of components */
-#include <ph_NxpBuild.h>
+//#include <ph_NxpBuild.h>
 /* Status code definitions */
 #include <ph_Status.h>
 
